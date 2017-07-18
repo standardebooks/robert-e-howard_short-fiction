@@ -19,8 +19,8 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">SORT</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
+		<dc:subject id="subject-1">Fantasy fiction, American</dc:subject>
+		<dc:subject id="subject-2">Conan (Fictitious character) -- Fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
 		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
 		<meta property="se:subject">TAG</meta>
@@ -30,7 +30,7 @@
 			LONGDESCRIPTION
 		]]></meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
-		<dc:language>LANG</dc:language>
+		<dc:language>en-US</dc:language>
 		<dc:source>LINK</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
@@ -71,17 +71,37 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
-		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-witch-shall-be-born.xhtml" id="a-witch-shall-be-born.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/beyond-the-black-river.xhtml" id="beyond-the-black-river.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/gods-of-the-north.xhtml" id="gods-of-the-north.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/jewels-of-gwahlur.xhtml" id="jewels-of-gwahlur.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/queen-of-the-black-coast.xhtml" id="queen-of-the-black-coast.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/red-nails.xhtml" id="red-nails.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/shadows-in-the-moonlight.xhtml" id="shadows-in-the-moonlight.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/shadows-in-zamboula.xhtml" id="shadows-in-zamboula.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-devil-in-iron.xhtml" id="the-devil-in-iron.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-hyborian-age.xhtml" id="the-hyborian-age.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-people-of-the-black-circle.xhtml" id="the-people-of-the-black-circle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="gods-of-the-north.xhtml"/>
+		<itemref idref="shadows-in-the-moonlight.xhtml"/>
+		<itemref idref="queen-of-the-black-coast.xhtml"/>
+		<itemref idref="a-witch-shall-be-born.xhtml"/>
+		<itemref idref="the-devil-in-iron.xhtml"/>
+		<itemref idref="the-people-of-the-black-circle.xhtml"/>
+		<itemref idref="shadows-in-zamboula.xhtml"/>
+		<itemref idref="beyond-the-black-river.xhtml"/>
+		<itemref idref="red-nails.xhtml"/>
+		<itemref idref="jewels-of-gwahlur.xhtml"/>
+		<itemref idref="the-hyborian-age.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
