@@ -18,12 +18,32 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Short Fiction</dc:title>
-		<meta property="file-as" refines="#title">SORT</meta>
+		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Fantasy fiction, American</dc:subject>
 		<dc:subject id="subject-2">Conan (Fictitious character) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/42664</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/42188</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/42188</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/42183</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/42183</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/42209</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/42209</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/42259</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/42259</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/42227</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/42227</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/42236</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/42236</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/42254</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/42254</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/42196</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/42196</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/32759</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/32759</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/42182</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/42182</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
@@ -70,32 +90,33 @@
 		<dc:source><!-- scans not yet found --></dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">WIKILINK</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_short-fiction</meta>
 		<dc:creator id="author">Robert E. Howard</dc:creator>
-		<meta property="file-as" refines="#author">SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">FULLNAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">NACOAFLINK</meta>
+		<meta property="file-as" refines="#author">Howard, Robert E.</meta>
+		<meta property="se:name.person.full-name" refines="#author">Robert Ervin Howard</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Robert_E._Howard</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79018012</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">CONTRIB1</dc:contributor>
-		<meta property="file-as" refines="#translator">CONTRIB1SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">NACOAFLINK</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">LINK</meta>
+		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="transcriber-2">Stephen Blundell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Blundell, Stephen</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Meehan, Mary</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdp.net</meta>
+		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://www.robinwhittleton.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
