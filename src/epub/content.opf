@@ -32,6 +32,7 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Gods of the North (The Fantasy Fan, March 1934) -->
+		<dc:source>https://www.gutenberg.org/ebooks/42664</dc:source>
 		<dc:source>http://www.sffaudio.com/podcasts/Gods%20Of%20The%20North%20by%20Robert%20E.%20Howard.pdf</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
