@@ -31,7 +31,32 @@
 		]]></meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>LINK</dc:source>
+		<!-- Gods of the North (The Fantasy Fan, March 1934) -->
+		<dc:source>http://www.sffaudio.com/podcasts/Gods%20Of%20The%20North%20by%20Robert%20E.%20Howard.pdf</dc:source>
+		<!-- Shadows in the Moonlight (Weird Tales, April 1934) -->
+		<dc:source><!-- scans not yet found --></dc:source>
+		<!-- Queen of the Black Coast (Weird Tales, May 1934) -->
+		<dc:source>https://archive.org/details/Weird_Tales_v23n05_1934-05_sas</dc:source>
+		<!-- A Witch Shall Be Born (Weird Tales, December 1934) -->
+		<dc:source>https://archive.org/details/Weird_Tales_v24n06_1934-12_sas</dc:source>
+		<!-- The Devil in Iron (Weird Tales, August 1934) -->
+		<dc:source>https://archive.org/details/Weird_Tales_v24n02_1934-08_LPM-URF-AT</dc:source>
+		<!-- The People of the Black Circle (Weird Tales, September–November 1934) -->
+		<dc:source>https://archive.org/details/Weird_Tales_v24n03_1934-09</dc:source>
+		<dc:source>http://www.sffaudio.com/podcasts/ThePeopleOfTheBlackCircleByRobertE.Howard.pdf</dc:source>
+		<!-- Shadows in Zamboula (Weird Tales, November 1935) -->
+		<dc:source><!-- scans not yet found --></dc:source>
+		<!-- Beyond the Black River (Weird Tales, May-June 1935) -->
+		<dc:source>https://archive.org/details/Weird_Tales_v25n05_1935-05_sas</dc:source>
+		<dc:source>https://archive.org/details/Weird_Tales_v25n06_1935-06_sas</dc:source>
+		<!-- Red Nails (Weird Tales, July-October 1936) -->
+		<dc:source>https://archive.org/details/Weird_Tales_v28n01_1936-07_sas</dc:source>
+		<dc:source>https://archive.org/details/Weird_Tales_v28n02_1936-08-09</dc:source>
+		<dc:source>https://archive.org/details/Weird_Tales_v28n03_1936-10</dc:source>
+		<!-- Jewels of Gwahlur (Weird Tales, March 1935) -->
+		<dc:source>https://archive.org/details/Weird_Tales_v25n03_1935-03_AT-sas</dc:source>
+		<!-- The Hyborian Age (The Phantagraph, February, August, and October-November 1936) -->
+		<dc:source><!-- scans not yet found --></dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">WIKILINK</meta>
