@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/robert-e-howard/short-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2018-04-13T21:40:20Z</dc:date>
+		<meta property="dcterms:modified">2018-04-13T21:40:20Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,7 +47,7 @@
 		<dc:description id="description">A barbarian adventures through ancient civilizations and battles fearsome enemies in this collection of Conan the Cimmerian short stories.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Conan, the Cimmerian barbarian, romps across the pages of Robert &lt;abbr&gt;E.&lt;/abbr&gt; Howard’s Hyborian adventures, slicing down enemy after enemy and trying not to fall too hard for a succession of ladies in need of rescue. Although very much a product of the pulp fantasy magazines of the 1930s, Conan has surpassed his contemporaries to become the quintessential barbarian of the fantasy genre: the muscle-bound and instinct led hero, always willing to fight his way out of any fix.&lt;/p&gt;
+			&lt;p&gt;Conan, the Cimmerian barbarian, romps across the pages of Robert &lt;abbr&gt;E.&lt;/abbr&gt; Howard’s Hyborian adventures, slicing down enemy after enemy and trying not to fall too hard for a succession of ladies in need of rescue. Although very much a product of the pulp fantasy magazines of the 1930s, Conan has surpassed his contemporaries to become the quintessential barbarian of the fantasy genre: the muscle-bound and instinct-led hero, always willing to fight his way out of any fix.&lt;/p&gt;
 			&lt;p&gt;Collected here are all ten available public domain Conan stories and the history of Hyboria that Howard wrote as a guide for himself to write from. &lt;i&gt;Gods of the North&lt;/i&gt; originally was a Conan story, but after being rejected by the first publisher was rewritten slightly to a character called Amra; it was later republished as &lt;i&gt;The Frost-Giant’s Daughter&lt;/i&gt; with the name changed back. The stories were serialised (with a couple of exceptions) in &lt;i&gt;Weird Tales&lt;/i&gt; magazine between 1934 and 1936, and have gone on to spawn multiple licensed and unlicensed sequels, comics, films and games.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
@@ -89,8 +89,8 @@
 		<!-- The Hyborian Age (The Phantagraph, February, August, and October-November 1936) -->
 		<dc:source>https://www.gutenberg.org/ebooks/42182</dc:source>
 		<!-- scans not yet found -->
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">179261</meta>
+		<meta property="se:reading-ease.flesch">72.16</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_short-fiction</meta>
 		<dc:creator id="author">Robert E. Howard</dc:creator>
 		<meta property="file-as" refines="#author">Howard, Robert E.</meta>
@@ -123,6 +123,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
