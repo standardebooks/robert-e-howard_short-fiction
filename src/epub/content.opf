@@ -56,7 +56,7 @@
 		<dc:source>http://www.sffaudio.com/podcasts/Gods%20Of%20The%20North%20by%20Robert%20E.%20Howard.pdf</dc:source>
 		<!-- Shadows in the Moonlight (Weird Tales, April 1934) -->
 		<dc:source>https://www.gutenberg.org/ebooks/42188</dc:source>
-		<dc:source><!-- scans not yet found --></dc:source>
+		<!-- scans not yet found -->
 		<!-- Queen of the Black Coast (Weird Tales, May 1934) -->
 		<dc:source>https://www.gutenberg.org/ebooks/42183</dc:source>
 		<dc:source>https://archive.org/details/Weird_Tales_v23n05_1934-05_sas</dc:source>
@@ -79,7 +79,7 @@
 		<dc:source>https://archive.org/details/Weird_Tales_v25n06_1935-06_sas</dc:source>
 		<!-- Shadows in Zamboula (Weird Tales, November 1935) -->
 		<dc:source>https://www.gutenberg.org/ebooks/42196</dc:source>
-		<dc:source><!-- scans not yet found --></dc:source>
+		<!-- scans not yet found -->
 		<!-- Red Nails (Weird Tales, July-October 1936) -->
 		<dc:source>https://www.gutenberg.org/ebooks/32759</dc:source>
 		<dc:source>https://archive.org/details/Weird_Tales_v28n01_1936-07_sas</dc:source>
@@ -87,7 +87,7 @@
 		<dc:source>https://archive.org/details/Weird_Tales_v28n03_1936-10</dc:source>
 		<!-- The Hyborian Age (The Phantagraph, February, August, and October-November 1936) -->
 		<dc:source>https://www.gutenberg.org/ebooks/42182</dc:source>
-		<dc:source><!-- scans not yet found --></dc:source>
+		<!-- scans not yet found -->
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_short-fiction</meta>
