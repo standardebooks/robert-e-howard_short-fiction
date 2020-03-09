@@ -70,7 +70,7 @@
 		<!-- The Hyborian Age (The Phantagraph, February, August, and October-November 1936) -->
 		<dc:source>https://www.gutenberg.org/ebooks/42182</dc:source>
 		<!-- scans not yet found -->
-		<meta property="se:word-count">179261</meta>
+		<meta property="se:word-count">179262</meta>
 		<meta property="se:reading-ease.flesch">72.16</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_short-fiction</meta>
 		<dc:creator id="author">Robert E. Howard</dc:creator>
