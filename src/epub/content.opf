@@ -32,6 +32,8 @@
 			&lt;p&gt;Collected here are all ten available public domain Conan short stories and the history of Hyboria that Howard wrote as a guide for himself to write from. &lt;i&gt;Gods of the North&lt;/i&gt; originally was a Conan story, but after being rejected by the first publisher was rewritten slightly to a character called Amra; it was later republished as &lt;i&gt;The Frost-Giant’s Daughter&lt;/i&gt; with the name changed back. The stories were serialised (with a couple of exceptions) in &lt;i&gt;Weird Tales&lt;/i&gt; magazine between 1934 and 1936, and have gone on to spawn multiple licensed and unlicensed sequels, comics, films and games.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
+		<!-- Spear and Fang (Weird Tales, July 1925) -->
+		<dc:source>https://archive.org/details/WeirdTalesV06N01192507</dc:source>
 		<!-- Gods of the North (The Fantasy Fan, March 1934) -->
 		<dc:source>https://www.gutenberg.org/ebooks/42664</dc:source>
 		<dc:source>https://archive.org/details/Fantastic_Universe_v06n05_1956-12</dc:source>
@@ -103,6 +105,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
@@ -127,6 +130,7 @@
 		<item href="text/red-nails.xhtml" id="red-nails.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/shadows-in-the-moonlight.xhtml" id="shadows-in-the-moonlight.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/shadows-in-zamboula.xhtml" id="shadows-in-zamboula.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spear-and-fang.xhtml" id="spear-and-fang.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-devil-in-iron.xhtml" id="the-devil-in-iron.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-hyborian-age.xhtml" id="the-hyborian-age.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-people-of-the-black-circle.xhtml" id="the-people-of-the-black-circle.xhtml" media-type="application/xhtml+xml"/>
@@ -136,6 +140,7 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="spear-and-fang.xhtml"/>
 		<itemref idref="gods-of-the-north.xhtml"/>
 		<itemref idref="shadows-in-the-moonlight.xhtml"/>
 		<itemref idref="queen-of-the-black-coast.xhtml"/>
