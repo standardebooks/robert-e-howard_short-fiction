@@ -34,6 +34,8 @@
 		<dc:language>en-US</dc:language>
 		<!-- Spear and Fang (Weird Tales, July 1925) -->
 		<dc:source>https://archive.org/details/WeirdTalesV06N01192507</dc:source>
+		<!-- In the Forest of Villefère (Weird Tales, August 1925) -->
+		<dc:source>https://archive.org/details/WeirdTalesV06N02192508</dc:source>
 		<!-- Gods of the North (The Fantasy Fan, March 1934) -->
 		<dc:source>https://www.gutenberg.org/ebooks/42664</dc:source>
 		<dc:source>https://archive.org/details/Fantastic_Universe_v06n05_1956-12</dc:source>
@@ -125,6 +127,7 @@
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/gods-of-the-north.xhtml" id="gods-of-the-north.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/in-the-forest-of-villefere.xhtml" id="in-the-forest-of-villefere.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/jewels-of-gwahlur.xhtml" id="jewels-of-gwahlur.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/queen-of-the-black-coast.xhtml" id="queen-of-the-black-coast.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/red-nails.xhtml" id="red-nails.xhtml" media-type="application/xhtml+xml"/>
@@ -141,6 +144,7 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="spear-and-fang.xhtml"/>
+		<itemref idref="in-the-forest-of-villefere.xhtml"/>
 		<itemref idref="gods-of-the-north.xhtml"/>
 		<itemref idref="shadows-in-the-moonlight.xhtml"/>
 		<itemref idref="queen-of-the-black-coast.xhtml"/>
