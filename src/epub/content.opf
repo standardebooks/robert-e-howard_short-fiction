@@ -63,13 +63,22 @@
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Stephen Blundell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Blundell, Stephen</meta>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Mary Meehan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Meehan, Mary</meta>
-		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdp.net</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net</meta>
+		<dc:contributor id="transcriber-5">Richard Scott</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Scott, Richard</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">Colin Choat</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Choat, Colin</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">Roy Glashan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Glashan, Roy</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
 		<meta property="se:url.homepage" refines="#producer-1">http://www.robinwhittleton.com</meta>
@@ -83,7 +92,9 @@
 		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
-		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
+		<meta property="se:role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-2" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
