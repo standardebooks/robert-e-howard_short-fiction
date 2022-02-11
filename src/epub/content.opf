@@ -87,6 +87,15 @@
 		<!-- Wolfshead (Weird Tales April 1926) -->
 		<dc:source>https://gutenberg.net.au/ebooks06/0601801h.html</dc:source>
 		<dc:source>https://archive.org/details/WeirdTalesV07N04192604</dc:source>
+		<!-- Sleeping Beauty (The Yellow Jacket 1926) -->
+		<dc:source>https://en.wikisource.org/wiki/Sleeping_Beauty_(Howard)</dc:source>
+		<!-- scans not found yet -->
+		<!-- Weekly Short Story (The Yellow Jacket 1926) -->
+		<dc:source>https://en.wikisource.org/wiki/Weekly_Short_Story</dc:source>
+		<!-- scans not found yet -->
+		<!-- After The Game (The Yellow Jacket 1926) -->
+		<dc:source>https://en.wikisource.org/wiki/After_the_Game</dc:source>
+		<!-- scans not found yet -->
 		<meta property="se:word-count">192154</meta>
 		<meta property="se:reading-ease.flesch">72.36</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_short-fiction</meta>
@@ -146,6 +155,7 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/a-witch-shall-be-born.xhtml" id="a-witch-shall-be-born.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/after-the-game.xhtml" id="after-the-game.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/beyond-the-black-river.xhtml" id="beyond-the-black-river.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/gods-of-the-north.xhtml" id="gods-of-the-north.xhtml" media-type="application/xhtml+xml"/>
@@ -156,12 +166,14 @@
 		<item href="text/red-nails.xhtml" id="red-nails.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/shadows-in-the-moonlight.xhtml" id="shadows-in-the-moonlight.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/shadows-in-zamboula.xhtml" id="shadows-in-zamboula.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sleeping-beauty.xhtml" id="sleeping-beauty.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/spear-and-fang.xhtml" id="spear-and-fang.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-devil-in-iron.xhtml" id="the-devil-in-iron.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-hyborian-age.xhtml" id="the-hyborian-age.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-people-of-the-black-circle.xhtml" id="the-people-of-the-black-circle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/weekly-short-story.xhtml" id="weekly-short-story.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/wolfshead.xhtml" id="wolfshead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
@@ -171,6 +183,9 @@
 		<itemref idref="spear-and-fang.xhtml"/>
 		<itemref idref="in-the-forest-of-villefere.xhtml"/>
 		<itemref idref="wolfshead.xhtml"/>
+		<itemref idref="after-the-game.xhtml"/>
+		<itemref idref="sleeping-beauty.xhtml"/>
+		<itemref idref="weekly-short-story.xhtml"/>
 		<itemref idref="gods-of-the-north.xhtml"/>
 		<itemref idref="shadows-in-the-moonlight.xhtml"/>
 		<itemref idref="queen-of-the-black-coast.xhtml"/>
