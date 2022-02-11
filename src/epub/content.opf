@@ -45,8 +45,21 @@
 		<dc:source>https://archive.org/details/WeirdTalesV06N02192508</dc:source>
 		<!-- Gods of the North (The Fantasy Fan, March 1934) -->
 		<dc:source>https://www.gutenberg.org/ebooks/42664</dc:source>
-		<meta property="se:word-count">183673</meta>
-		<meta property="se:reading-ease.flesch">72.26</meta>
+		<!-- scans not yet found -->
+		<!-- Wolfshead (Weird Tales April 1926) -->
+		<dc:source>https://gutenberg.net.au/ebooks06/0601801h.html</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV07N04192604</dc:source>
+		<!-- Sleeping Beauty (The Yellow Jacket 1926) -->
+		<dc:source>https://en.wikisource.org/wiki/Sleeping_Beauty_(Howard)</dc:source>
+		<!-- scans not found yet -->
+		<!-- Weekly Short Story (The Yellow Jacket 1926) -->
+		<dc:source>https://en.wikisource.org/wiki/Weekly_Short_Story</dc:source>
+		<!-- scans not found yet -->
+		<!-- After The Game (The Yellow Jacket 1926) -->
+		<dc:source>https://en.wikisource.org/wiki/After_the_Game</dc:source>
+		<!-- scans not found yet -->
+		<meta property="se:word-count">192154</meta>
+		<meta property="se:reading-ease.flesch">72.36</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_short-fiction</meta>
 		<dc:creator id="author">Robert E. Howard</dc:creator>
 		<meta property="file-as" refines="#author">Howard, Robert E.</meta>
@@ -102,13 +115,17 @@
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/> 
+		<item href="text/after-the-game.xhtml" id="after-the-game.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/gods-of-the-north.xhtml" id="gods-of-the-north.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-the-forest-of-villefere.xhtml" id="in-the-forest-of-villefere.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sleeping-beauty.xhtml" id="sleeping-beauty.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/spear-and-fang.xhtml" id="spear-and-fang.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/weekly-short-story.xhtml" id="weekly-short-story.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/wolfshead.xhtml" id="wolfshead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
@@ -118,6 +135,9 @@
 		<itemref idref="spear-and-fang.xhtml"/>
 		<itemref idref="in-the-forest-of-villefere.xhtml"/>
 		<itemref idref="wolfshead.xhtml"/>
+		<itemref idref="after-the-game.xhtml"/>
+		<itemref idref="sleeping-beauty.xhtml"/>
+		<itemref idref="weekly-short-story.xhtml"/>
 		<itemref idref="gods-of-the-north.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
