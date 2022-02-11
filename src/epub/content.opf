@@ -87,7 +87,7 @@
 		<!-- Wolfshead (Weird Tales April 1926) -->
 		<dc:source>https://gutenberg.net.au/ebooks06/0601801h.html</dc:source>
 		<dc:source>https://archive.org/details/WeirdTalesV07N04192604</dc:source>
-		<meta property="se:word-count">192159</meta>
+		<meta property="se:word-count">192154</meta>
 		<meta property="se:reading-ease.flesch">72.36</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_short-fiction</meta>
 		<dc:creator id="author">Robert E. Howard</dc:creator>
