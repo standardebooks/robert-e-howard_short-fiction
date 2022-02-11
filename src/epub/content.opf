@@ -45,9 +45,8 @@
 		<dc:source>https://archive.org/details/WeirdTalesV06N02192508</dc:source>
 		<!-- Gods of the North (The Fantasy Fan, March 1934) -->
 		<dc:source>https://www.gutenberg.org/ebooks/42664</dc:source>
-		<dc:source>http://www.sffaudio.com/podcasts/Gods%20Of%20The%20North%20by%20Robert%20E.%20Howard.pdf</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">183673</meta>
+		<meta property="se:reading-ease.flesch">72.26</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_short-fiction</meta>
 		<dc:creator id="author">Robert E. Howard</dc:creator>
 		<meta property="file-as" refines="#author">Howard, Robert E.</meta>
