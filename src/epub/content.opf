@@ -96,8 +96,8 @@
 		<!-- After The Game (The Yellow Jacket 1926) -->
 		<dc:source>https://en.wikisource.org/wiki/After_the_Game</dc:source>
 		<!-- scans not found yet -->
-		<meta property="se:word-count">192154</meta>
-		<meta property="se:reading-ease.flesch">72.36</meta>
+		<meta property="se:word-count">194230</meta>
+		<meta property="se:reading-ease.flesch">72.46</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_short-fiction</meta>
 		<dc:creator id="author">Robert E. Howard</dc:creator>
 		<meta property="file-as" refines="#author">Howard, Robert E.</meta>
