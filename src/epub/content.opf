@@ -36,6 +36,7 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Robert E. Howard’s short stories, including the barbarian adventures of Conan the Cimmerian.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Conan, the Cimmerian barbarian, romps across the pages of &lt;a href="https://standardebooks.org/ebooks/robert-e-howard"&gt;Robert &lt;abbr&gt;E.&lt;/abbr&gt; Howard’s&lt;/a&gt; Hyborian adventures, slicing down enemy after enemy and trying not to fall too hard for a succession of ladies in need of rescue. Although very much a product of the pulp fantasy magazines of the 1930s, Conan has surpassed his contemporaries to become the quintessential barbarian of the fantasy genre: the muscle-bound and instinct-led hero, always willing to fight his way out of any fix.&lt;/p&gt;
