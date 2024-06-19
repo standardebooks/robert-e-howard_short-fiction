@@ -117,3 +117,9 @@ section[epub|type~="z3998:scene"] > p{
 	margin: 1em auto;
 	width: 75%;
 }
+
+/* Verse */
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
