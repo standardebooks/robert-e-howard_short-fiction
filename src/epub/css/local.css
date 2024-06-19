@@ -65,6 +65,18 @@ p[epub|type~="se:letter.dateline"]{
 	margin: 3em auto;
 }
 
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:sender"]{
+	font-variant: small-caps;
+}
+
 /* Drama */
 [epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
