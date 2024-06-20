@@ -97,6 +97,50 @@
 		<!-- After The Game (The Yellow Jacket 1926) -->
 		<dc:source>https://en.wikisource.org/wiki/After_the_Game</dc:source>
 		<!-- scans not found yet -->
+		<!-- The Lost Race (Weird Tales january 1927) -->
+		<dc:source>https://www.gutenberg.org/ebooks/73793</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV09N01192701</dc:source>
+		<!-- The Dream Snake (Weird Tales february 1928) -->
+		<dc:source>https://www.gutenberg.org/ebooks/71052</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV11N02192802</dc:source>
+		<!-- The Hyena (Weird Tales march 1928) -->
+		<dc:source>https://www.gutenberg.org/ebooks/71065</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV11N03192803</dc:source>
+		<!-- The Shadow Kingdom (Weird Tales august 1929) -->
+		<dc:source>https://www.gutenberg.org/ebooks/70830</dc:source>
+		<dc:source>https://archive.org/details/Weird_Tales_v14n02_1929-08_sas</dc:source>
+		<!-- The Mirrors of Tuzun Thune (Weird Tales september 1929) -->
+		<dc:source>https://www.gutenberg.org/ebooks/70879</dc:source>
+		<dc:source>https://archive.org/details/Weird_Tales_v14n03_1929-09_sas</dc:source>
+		<!-- Rattle of Bones (Weird Tales june 1929) -->
+		<dc:source>https://www.gutenberg.org/ebooks/70653</dc:source>
+		<dc:source>https://archive.org/details/Weird_Tales_v13n06_1929-06_AT-sas</dc:source>
+		<!-- Skull Face (Weird Tales october-december 1929) -->
+		<dc:source>https://www.gutenberg.org/ebooks/71268</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV14N04192910</dc:source>
+		<dc:source>https://archive.org/details/weird-tales-v-14-n-05-1929-11-sas</dc:source>
+		<dc:source>https://archive.org/details/Weird_Tales_v14n06_1929-12_sas</dc:source>
+		<!-- Skulls in the Stars (Weird Tales january 1929) -->
+		<dc:source>https://www.gutenberg.org/ebooks/70540</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV13N01192901sasIbc</dc:source>
+		<!-- The Haunter of the Ring (Weird Tales june 1934) -->
+		<dc:source>https://www.gutenberg.org/ebooks/71197</dc:source>
+		<dc:source>https://archive.org/details/Weird_Tales_v23n06_1934-06_sas</dc:source>
+		<!-- The Grisly Horror (Weird Tales february 1935) -->
+		<dc:source>https://www.gutenberg.org/ebooks/71180</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV25N02193502</dc:source>
+		<!-- Black Canaan (Weird Tales june 1936) -->
+		<dc:source>https://www.gutenberg.org/ebooks/71168</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV27N06193606</dc:source>
+		<!-- Black Hound of Death (Weird Tales november 1936) -->
+		<dc:source>https://www.gutenberg.org/ebooks/71109</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV28N04193611</dc:source>
+		<!-- The Fire of Asshurbanipal (Weird Tales december 1936) -->
+		<dc:source>https://www.gutenberg.org/ebooks/71085</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV28N05193612</dc:source>
+		<!-- Dig Me No Grave (Weird Tales february 1937) -->
+		<dc:source>https://www.gutenberg.org/ebooks/71066</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV29N02193702</dc:source>
 		<meta property="se:word-count">194230</meta>
 		<meta property="se:reading-ease.flesch">72.46</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_short-fiction</meta>
