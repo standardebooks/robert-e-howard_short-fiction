@@ -1,9 +1,15 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-span[epub|type~="subtitle"]{
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:verse"] p > span{
 	display: block;
-	font-weight: normal;
+	padding-left: 1em;
+	text-indent: -1em;
 }
 
 /* All epigraphs */
@@ -134,4 +140,8 @@ section[epub|type~="z3998:scene"] > p{
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
+}
+
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
 }
