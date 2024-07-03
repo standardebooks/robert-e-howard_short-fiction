@@ -135,7 +135,7 @@
 		<!-- Black Hound of Death (Weird Tales november 1936) -->
 		<dc:source>https://www.gutenberg.org/ebooks/71109</dc:source>
 		<dc:source>https://archive.org/details/WeirdTalesV28N04193611</dc:source>
-		<!-- The Fire of Asshurbanipal (Weird Tales december 1936) -->
+		<!-- The Fire of Ashurbanipal (Weird Tales december 1936) -->
 		<dc:source>https://www.gutenberg.org/ebooks/71085</dc:source>
 		<dc:source>https://archive.org/details/WeirdTalesV28N05193612</dc:source>
 		<!-- Dig Me No Grave (Weird Tales february 1937) -->
@@ -221,7 +221,7 @@
 		<item href="text/spear-and-fang.xhtml" id="spear-and-fang.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-devil-in-iron.xhtml" id="the-devil-in-iron.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dream-snake.xhtml" id="the-dream-snake.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-fire-of-asshurbanipal.xhtml" id="the-fire-of-asshurbanipal.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-fire-of-ashurbanipal.xhtml" id="the-fire-of-ashurbanipal.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-grisly-horror.xhtml" id="the-grisly-horror.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-haunter-of-the-ring.xhtml" id="the-haunter-of-the-ring.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-hyborian-age.xhtml" id="the-hyborian-age.xhtml" media-type="application/xhtml+xml"/>
@@ -269,7 +269,7 @@
 		<itemref idref="black-hound-of-death.xhtml"/>
 		<itemref idref="the-hyborian-age.xhtml"/>
 		<itemref idref="dig-me-no-grave.xhtml"/>
-		<itemref idref="the-fire-of-asshurbanipal.xhtml"/>
+		<itemref idref="the-fire-of-ashurbanipal.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
