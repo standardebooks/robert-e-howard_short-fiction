@@ -62,14 +62,10 @@ p[epub|type~="se:letter.dateline"]{
 }
 
 #the-grisly-horror [epub|type~="z3998:letter"] header{
-	text-align: left;
+	text-align: initial;
 }
 
 [epub|type~="z3998:letter"] header{
-	text-align: right;
-}
-
-[epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
 
