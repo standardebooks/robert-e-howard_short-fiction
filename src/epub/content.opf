@@ -103,8 +103,8 @@
 		<!-- Dig Me No Grave (Weird Tales february 1937) -->
 		<dc:source>https://www.gutenberg.org/ebooks/71066</dc:source>
 		<dc:source>https://archive.org/details/WeirdTalesV29N02193702</dc:source>
-		<meta property="se:word-count">194230</meta>
-		<meta property="se:reading-ease.flesch">72.46</meta>
+		<meta property="se:word-count">317511</meta>
+		<meta property="se:reading-ease.flesch">72.36</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_short-fiction</meta>
 		<dc:creator id="author">Robert E. Howard</dc:creator>
 		<meta property="file-as" refines="#author">Howard, Robert E.</meta>
