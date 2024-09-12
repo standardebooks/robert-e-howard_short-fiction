@@ -170,11 +170,14 @@
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-the-forest-of-villefere.xhtml" id="in-the-forest-of-villefere.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/rattle-of-bones.xhtml" id="rattle-of-bones.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/red-shadows.xhtml" id="red-shadows.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sea-curse.xhtml" id="sea-curse.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/skull-face.xhtml" id="skull-face.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/skulls-in-the-stars.xhtml" id="skulls-in-the-stars.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sleeping-beauty.xhtml" id="sleeping-beauty.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/spear-and-fang.xhtml" id="spear-and-fang.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dream-snake.xhtml" id="the-dream-snake.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-fearsome-touch-of-death.xhtml" id="the-fearsome-touch-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-fire-of-ashurbanipal.xhtml" id="the-fire-of-ashurbanipal.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-grisly-horror.xhtml" id="the-grisly-horror.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-haunter-of-the-ring.xhtml" id="the-haunter-of-the-ring.xhtml" media-type="application/xhtml+xml"/>
@@ -201,16 +204,18 @@
 		<itemref idref="the-lost-race.xhtml"/>
 		<itemref idref="the-dream-snake.xhtml"/>
 		<itemref idref="the-hyena.xhtml"/>
+		<itemref idref="sea-curse.xhtml"/>
+		<itemref idref="red-shadows.xhtml"/>
 		<itemref idref="skulls-in-the-stars.xhtml"/>
 		<itemref idref="rattle-of-bones.xhtml"/>
 		<itemref idref="the-shadow-kingdom.xhtml"/>
 		<itemref idref="the-mirrors-of-tuzun-thune.xhtml"/>
 		<itemref idref="skull-face.xhtml"/>
+		<itemref idref="the-fearsome-touch-of-death.xhtml"/>
 		<itemref idref="the-haunter-of-the-ring.xhtml"/>
 		<itemref idref="the-grisly-horror.xhtml"/>
 		<itemref idref="black-canaan.xhtml"/>
 		<itemref idref="black-hound-of-death.xhtml"/>
-		<itemref idref="the-hyborian-age.xhtml"/>
 		<itemref idref="dig-me-no-grave.xhtml"/>
 		<itemref idref="the-fire-of-ashurbanipal.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
