@@ -213,6 +213,8 @@
 		<item href="text/queen-of-the-black-coast.xhtml" id="queen-of-the-black-coast.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/rattle-of-bones.xhtml" id="rattle-of-bones.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/red-nails.xhtml" id="red-nails.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/red-shadows.xhtml" id="red-shadows.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sea-curse.xhtml" id="sea-curse.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/shadows-in-the-moonlight.xhtml" id="shadows-in-the-moonlight.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/shadows-in-zamboula.xhtml" id="shadows-in-zamboula.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/skull-face.xhtml" id="skull-face.xhtml" media-type="application/xhtml+xml"/>
@@ -221,6 +223,7 @@
 		<item href="text/spear-and-fang.xhtml" id="spear-and-fang.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-devil-in-iron.xhtml" id="the-devil-in-iron.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-dream-snake.xhtml" id="the-dream-snake.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-fearsome-touch-of-death.xhtml" id="the-fearsome-touch-of-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-fire-of-ashurbanipal.xhtml" id="the-fire-of-ashurbanipal.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-grisly-horror.xhtml" id="the-grisly-horror.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-haunter-of-the-ring.xhtml" id="the-haunter-of-the-ring.xhtml" media-type="application/xhtml+xml"/>
@@ -249,11 +252,14 @@
 		<itemref idref="the-lost-race.xhtml"/>
 		<itemref idref="the-dream-snake.xhtml"/>
 		<itemref idref="the-hyena.xhtml"/>
+		<itemref idref="sea-curse.xhtml"/>
+		<itemref idref="red-shadows.xhtml"/>
 		<itemref idref="skulls-in-the-stars.xhtml"/>
 		<itemref idref="rattle-of-bones.xhtml"/>
 		<itemref idref="the-shadow-kingdom.xhtml"/>
 		<itemref idref="the-mirrors-of-tuzun-thune.xhtml"/>
 		<itemref idref="skull-face.xhtml"/>
+		<itemref idref="the-fearsome-touch-of-death.xhtml"/>
 		<itemref idref="shadows-in-the-moonlight.xhtml"/>
 		<itemref idref="queen-of-the-black-coast.xhtml"/>
 		<itemref idref="the-haunter-of-the-ring.xhtml"/>
