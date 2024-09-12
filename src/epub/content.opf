@@ -103,6 +103,15 @@
 		<!-- Dig Me No Grave (Weird Tales february 1937) -->
 		<dc:source>https://www.gutenberg.org/ebooks/71066</dc:source>
 		<dc:source>https://archive.org/details/WeirdTalesV29N02193702</dc:source>
+		<!-- Sea Curse -->
+		<dc:source>https://www.gutenberg.org/ebooks/72707</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV11N05192805</dc:source>
+		<!-- Red Shadows -->
+		<dc:source>https://www.gutenberg.org/ebooks/70570</dc:source>
+		<dc:source>https://archive.org/details/WeirdTalesV12N02192808sasIfcIbc</dc:source>
+		<!-- The Fearsome Touch of Death -->
+		<dc:source>https://www.gutenberg.org/ebooks/71139</dc:source>
+		<dc:source>https://archive.org/details/Weird_Tales_v15n02_1930-02</dc:source>
 		<meta property="se:word-count">317511</meta>
 		<meta property="se:reading-ease.flesch">72.36</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_short-fiction</meta>
@@ -137,6 +146,9 @@
 		<dc:contributor id="transcriber-7">Roy Glashan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-7">Glashan, Roy</meta>
 		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-8">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-8">Haines, Al</meta>
+		<meta property="role" refines="#transcriber-8" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
 		<meta property="se:url.homepage" refines="#producer-1">http://www.robinwhittleton.com</meta>
@@ -153,6 +165,10 @@
 		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-3">Hendrik Kaiber</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Kaiber, Hendrik</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
