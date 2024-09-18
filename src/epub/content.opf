@@ -112,8 +112,8 @@
 		<!-- The Fearsome Touch of Death -->
 		<dc:source>https://www.gutenberg.org/ebooks/71139</dc:source>
 		<dc:source>https://archive.org/details/Weird_Tales_v15n02_1930-02</dc:source>
-		<meta property="se:word-count">317511</meta>
-		<meta property="se:reading-ease.flesch">72.36</meta>
+		<meta property="se:word-count">333137</meta>
+		<meta property="se:reading-ease.flesch">72.26</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_short-fiction</meta>
 		<dc:creator id="author">Robert E. Howard</dc:creator>
 		<meta property="file-as" refines="#author">Howard, Robert E.</meta>
