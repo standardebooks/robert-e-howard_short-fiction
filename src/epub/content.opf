@@ -134,8 +134,8 @@
 		<dc:contributor id="transcriber-3">Mary Meehan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net</meta>
 		<dc:contributor id="transcriber-5">Richard Scott</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Scott, Richard</meta>
