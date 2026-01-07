@@ -29,9 +29,99 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
-		<dc:subject id="subject-1">Fantasy fiction, American</dc:subject>
-		<dc:subject id="subject-2">Conan (Fictitious character) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/42664</meta>
+		<dc:subject id="subject-1">Short stories</dc:subject>
+		<dc:subject id="subject-2">Fantasy fiction, American</dc:subject>
+		<dc:subject id="subject-3">Fantasy fiction</dc:subject>
+		<dc:subject id="subject-4">Cornwall (England : County) -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Horror tales</dc:subject>
+		<dc:subject id="subject-6">Nightmares -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Americans -- Africa -- Fiction</dc:subject>
+		<dc:subject id="subject-8">Disguise -- Fiction</dc:subject>
+		<dc:subject id="subject-9">Kings and rulers -- Fiction</dc:subject>
+		<dc:subject id="subject-10">Magic -- Fiction</dc:subject>
+		<dc:subject id="subject-11">Kull (Fictitious character) -- Fiction</dc:subject>
+		<dc:subject id="subject-12">Wizards -- Fiction</dc:subject>
+		<dc:subject id="subject-13">Puritans -- Fiction</dc:subject>
+		<dc:subject id="subject-14">Black Forest (Germany) -- Fiction</dc:subject>
+		<dc:subject id="subject-15">Kane, Solomon (Fictitious character) -- Fiction</dc:subject>
+		<dc:subject id="subject-16">Magicians -- Fiction</dc:subject>
+		<dc:subject id="subject-17">Drug addicts -- Fiction</dc:subject>
+		<dc:subject id="subject-18">England -- Fiction</dc:subject>
+		<dc:subject id="subject-19">Good and evil -- Fiction</dc:subject>
+		<dc:subject id="subject-20">Revenge -- Fiction</dc:subject>
+		<dc:subject id="subject-21">Attempted murder -- Fiction</dc:subject>
+		<dc:subject id="subject-22">Demoniac possession -- Fiction</dc:subject>
+		<dc:subject id="subject-23">Louisiana -- Fiction</dc:subject>
+		<dc:subject id="subject-24">Race relations -- Fiction</dc:subject>
+		<dc:subject id="subject-25">Werewolves -- Fiction</dc:subject>
+		<dc:subject id="subject-26">Adventure stories</dc:subject>
+		<dc:subject id="subject-27">Extinct cities -- Fiction</dc:subject>
+		<dc:subject id="subject-28">Arabian Peninsula -- Fiction</dc:subject>
+		<dc:subject id="subject-29">Treasure hunting -- Fiction</dc:subject>
+		<dc:subject id="subject-30">Africa -- Fiction</dc:subject>
+		<dc:subject id="subject-31">France -- Fiction</dc:subject>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">Unknown</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">Unknown</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">Unknown</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">Unknown</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">Unknown</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">Unknown</meta>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">Unknown</meta>
+		<meta property="authority" refines="#subject-12">LCSH</meta>
+		<meta property="term" refines="#subject-12">Unknown</meta>
+		<meta property="authority" refines="#subject-13">LCSH</meta>
+		<meta property="term" refines="#subject-13">Unknown</meta>
+		<meta property="authority" refines="#subject-14">LCSH</meta>
+		<meta property="term" refines="#subject-14">Unknown</meta>
+		<meta property="authority" refines="#subject-15">LCSH</meta>
+		<meta property="term" refines="#subject-15">Unknown</meta>
+		<meta property="authority" refines="#subject-16">LCSH</meta>
+		<meta property="term" refines="#subject-16">Unknown</meta>
+		<meta property="authority" refines="#subject-17">LCSH</meta>
+		<meta property="term" refines="#subject-17">Unknown</meta>
+		<meta property="authority" refines="#subject-18">LCSH</meta>
+		<meta property="term" refines="#subject-18">Unknown</meta>
+		<meta property="authority" refines="#subject-19">LCSH</meta>
+		<meta property="term" refines="#subject-19">Unknown</meta>
+		<meta property="authority" refines="#subject-20">LCSH</meta>
+		<meta property="term" refines="#subject-20">Unknown</meta>
+		<meta property="authority" refines="#subject-21">LCSH</meta>
+		<meta property="term" refines="#subject-21">Unknown</meta>
+		<meta property="authority" refines="#subject-22">LCSH</meta>
+		<meta property="term" refines="#subject-22">Unknown</meta>
+		<meta property="authority" refines="#subject-23">LCSH</meta>
+		<meta property="term" refines="#subject-23">Unknown</meta>
+		<meta property="authority" refines="#subject-24">LCSH</meta>
+		<meta property="term" refines="#subject-24">Unknown</meta>
+		<meta property="authority" refines="#subject-25">LCSH</meta>
+		<meta property="term" refines="#subject-25">Unknown</meta>
+		<meta property="authority" refines="#subject-26">LCSH</meta>
+		<meta property="term" refines="#subject-26">Unknown</meta>
+		<meta property="authority" refines="#subject-27">LCSH</meta>
+		<meta property="term" refines="#subject-27">Unknown</meta>
+		<meta property="authority" refines="#subject-28">LCSH</meta>
+		<meta property="term" refines="#subject-28">Unknown</meta>
+		<meta property="authority" refines="#subject-29">LCSH</meta>
+		<meta property="term" refines="#subject-29">Unknown</meta>
+		<meta property="authority" refines="#subject-30">LCSH</meta>
+		<meta property="term" refines="#subject-30">Unknown</meta>
+		<meta property="authority" refines="#subject-31">LCSH</meta>
+		<meta property="term" refines="#subject-31">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
