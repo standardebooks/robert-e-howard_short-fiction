@@ -125,10 +125,10 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<dc:description id="description">A collection of Robert E. Howard’s short stories, including the barbarian adventures of Conan the Cimmerian.</dc:description>
+		<dc:description id="description">A collection of short fiction by Robert E. Howard, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Conan, the Cimmerian barbarian, romps across the pages of &lt;a href="https://standardebooks.org/ebooks/robert-e-howard"&gt;Robert &lt;abbr&gt;E.&lt;/abbr&gt; Howard’s&lt;/a&gt; Hyborian adventures, slicing down enemy after enemy and trying not to fall too hard for a succession of ladies in need of rescue. Although very much a product of the pulp fantasy magazines of the 1930s, Conan has surpassed his contemporaries to become the quintessential barbarian of the fantasy genre: the muscle-bound and instinct-led hero, always willing to fight his way out of any fix.&lt;/p&gt;
-			&lt;p&gt;Collected here are Howard’s public domain short stories, including ten Conan short stories and the history of Hyboria that Howard wrote as a guide for himself to write from. &lt;i&gt;Gods of the North&lt;/i&gt; originally was a Conan story, but after being rejected by the first publisher was rewritten slightly to a character called Amra; it was later republished as &lt;i&gt;The Frost-Giant’s Daughter&lt;/i&gt; with the name changed back. The stories were serialised (with a couple of exceptions) in &lt;i&gt;Weird Tales&lt;/i&gt; magazine between 1925 and 1936, and have gone on to spawn multiple licensed and unlicensed sequels, comics, films and games.&lt;/p&gt;
+			&lt;p&gt;Best known for his character &lt;a href="https://standardebooks.org/collections/conan-the-barbarian"&gt;Conan the Barbarian&lt;/a&gt;, during his short life &lt;a href="https://standardebooks.org/ebooks/robert-e-howard"&gt;Robert &lt;abbr&gt;E.&lt;/abbr&gt; Howard&lt;/a&gt; also wrote prolifically in other genres, including horror, adventure, western and historical fiction. Foreign lands, sorcery and gritty characters are hallmarks of Howard’s literary work. Although the themes and contents of several stories have since become offensive, his corpus is a good representation of the culture and believes of his time.&lt;/p&gt;
+			&lt;p&gt;Collected here are some of Howard’s short stories known to be public domain. The stories were first published mainly in newspapers and pulp magazines of the time, specially &lt;i&gt;Weird Tales&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Spear and Fang (Weird Tales, July 1925) -->
