@@ -259,6 +259,7 @@
 		<meta property="role" refines="#producer-2" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-3">Hendrik Kaiber</dc:contributor>
 		<meta property="file-as" refines="#producer-3">Kaiber, Hendrik</meta>
+		<meta property="se:name.person.full-name" refines="#producer-3">Hendrik de Wetterle Bonow Kaiber</meta>
 		<meta property="role" refines="#producer-3" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 	</metadata>
