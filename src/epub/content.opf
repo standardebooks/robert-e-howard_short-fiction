@@ -127,7 +127,7 @@
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of short fiction by Robert E. Howard, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Best known for his character &lt;a href="https://standardebooks.org/collections/conan-the-barbarian"&gt;Conan the Barbarian&lt;/a&gt;, during his short life &lt;a href="https://standardebooks.org/ebooks/robert-e-howard"&gt;Robert &lt;abbr&gt;E.&lt;/abbr&gt; Howard&lt;/a&gt; also wrote prolifically in other genres, including horror, adventure, western and historical fiction. Foreign lands, sorcery and gritty characters are hallmarks of Howard’s literary work. Although the themes and contents of several stories have since become offensive, his corpus is a good representation of the culture and believes of his time.&lt;/p&gt;
+			&lt;p&gt;Best known for his character &lt;a href="https://standardebooks.org/collections/conan-the-barbarian"&gt;Conan the Barbarian&lt;/a&gt;, during his short life &lt;a href="https://standardebooks.org/ebooks/robert-e-howard"&gt;Robert E. Howard&lt;/a&gt; also wrote prolifically in other genres, including horror, adventure, western and historical fiction. Foreign lands, sorcery and gritty characters are hallmarks of Howard’s literary work. Although the themes and contents of several stories have since become offensive, his corpus is a good representation of the culture and believes of his time.&lt;/p&gt;
 			&lt;p&gt;Collected here are some of Howard’s short stories known to be public domain. The stories were first published mainly in newspapers and pulp magazines of the time, specially &lt;i&gt;Weird Tales&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
@@ -203,8 +203,8 @@
 		<!-- The Fearsome Touch of Death -->
 		<dc:source>https://www.gutenberg.org/ebooks/71139</dc:source>
 		<dc:source>https://archive.org/details/Weird_Tales_v15n02_1930-02</dc:source>
-		<meta property="se:word-count">333137</meta>
-		<meta property="se:reading-ease.flesch">72.26</meta>
+		<meta property="se:word-count">157074</meta>
+		<meta property="se:reading-ease.flesch">80.82</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_short-fiction</meta>
 		<dc:creator id="author">Robert E. Howard</dc:creator>
 		<meta property="file-as" refines="#author">Howard, Robert E.</meta>
