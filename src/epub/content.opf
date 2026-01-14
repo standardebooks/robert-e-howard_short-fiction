@@ -278,6 +278,7 @@
 		<item href="text/gods-of-the-north.xhtml" id="gods-of-the-north.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-the-forest-of-villefere.xhtml" id="in-the-forest-of-villefere.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/kings-of-the-night.xhtml" id="kings-of-the-night.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/rattle-of-bones.xhtml" id="rattle-of-bones.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/red-shadows.xhtml" id="red-shadows.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sea-curse.xhtml" id="sea-curse.xhtml" media-type="application/xhtml+xml"/>
@@ -290,10 +291,13 @@
 		<item href="text/the-fire-of-ashurbanipal.xhtml" id="the-fire-of-ashurbanipal.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-grisly-horror.xhtml" id="the-grisly-horror.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-haunter-of-the-ring.xhtml" id="the-haunter-of-the-ring.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-hills-of-the-dead.xhtml" id="the-hills-of-the-dead.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-hyena.xhtml" id="the-hyena.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lost-race.xhtml" id="the-lost-race.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-mirrors-of-tuzun-thune.xhtml" id="the-mirrors-of-tuzun-thune.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-moon-of-skulls.xhtml" id="the-moon-of-skulls.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-shadow-kingdom.xhtml" id="the-shadow-kingdom.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-voice-of-el-lil.xhtml" id="the-voice-of-el-lil.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/weekly-short-story.xhtml" id="weekly-short-story.xhtml" media-type="application/xhtml+xml"/>
@@ -309,7 +313,6 @@
 		<itemref idref="after-the-game.xhtml"/>
 		<itemref idref="sleeping-beauty.xhtml"/>
 		<itemref idref="weekly-short-story.xhtml"/>
-		<itemref idref="gods-of-the-north.xhtml"/>
 		<itemref idref="the-lost-race.xhtml"/>
 		<itemref idref="the-dream-snake.xhtml"/>
 		<itemref idref="the-hyena.xhtml"/>
@@ -321,12 +324,17 @@
 		<itemref idref="the-mirrors-of-tuzun-thune.xhtml"/>
 		<itemref idref="skull-face.xhtml"/>
 		<itemref idref="the-fearsome-touch-of-death.xhtml"/>
+		<itemref idref="the-moon-of-skulls.xhtml"/>
+		<itemref idref="the-hills-of-the-dead.xhtml"/>
+		<itemref idref="the-voice-of-el-lil.xhtml"/>
+		<itemref idref="kings-of-the-night.xhtml"/>
+		<itemref idref="gods-of-the-north.xhtml"/>
 		<itemref idref="the-haunter-of-the-ring.xhtml"/>
 		<itemref idref="the-grisly-horror.xhtml"/>
 		<itemref idref="black-canaan.xhtml"/>
 		<itemref idref="black-hound-of-death.xhtml"/>
-		<itemref idref="dig-me-no-grave.xhtml"/>
 		<itemref idref="the-fire-of-ashurbanipal.xhtml"/>
+		<itemref idref="dig-me-no-grave.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
