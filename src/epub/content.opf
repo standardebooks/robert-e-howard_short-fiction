@@ -282,6 +282,7 @@
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/in-the-forest-of-villefere.xhtml" id="in-the-forest-of-villefere.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/kings-of-the-night.xhtml" id="kings-of-the-night.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/lord-of-samarkand.xhtml" id="lord-of-samarkand.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/rattle-of-bones.xhtml" id="rattle-of-bones.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/red-shadows.xhtml" id="red-shadows.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/sea-curse.xhtml" id="sea-curse.xhtml" media-type="application/xhtml+xml"/>
@@ -331,6 +332,7 @@
 		<itemref idref="the-hills-of-the-dead.xhtml"/>
 		<itemref idref="the-voice-of-el-lil.xhtml"/>
 		<itemref idref="kings-of-the-night.xhtml"/>
+		<itemref idref="lord-of-samarkand.xhtml"/>
 		<itemref idref="gods-of-the-north.xhtml"/>
 		<itemref idref="the-haunter-of-the-ring.xhtml"/>
 		<itemref idref="the-grisly-horror.xhtml"/>
