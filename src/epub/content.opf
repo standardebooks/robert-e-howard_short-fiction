@@ -177,6 +177,9 @@
 		<!-- Skulls in the Stars (Weird Tales january 1929) -->
 		<dc:source>https://www.gutenberg.org/ebooks/70540</dc:source>
 		<dc:source>https://archive.org/details/WeirdTalesV13N01192901sasIbc</dc:source>
+		<!-- Lord of Samarkand (Weird Tales, 1932) -->
+		<dc:source>https://www.gutenberg.org/ebooks/79801</dc:source>
+		<dc:source>https://s3.us-west-1.wasabisys.com/luminist/PU/ORI_1932_1.pdf</dc:source>
 		<!-- The Haunter of the Ring (Weird Tales june 1934) -->
 		<dc:source>https://www.gutenberg.org/ebooks/71197</dc:source>
 		<dc:source>https://archive.org/details/Weird_Tales_v23n06_1934-06_sas</dc:source>
