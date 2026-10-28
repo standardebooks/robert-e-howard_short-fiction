@@ -235,6 +235,7 @@
 		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber-4" rel="schema:url"/>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-5">Richard Scott</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Scott, Richard</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
