@@ -218,8 +218,9 @@
 		<link href="https://en.wikipedia.org/wiki/Robert_E._Howard" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79018012.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Franz Stuck</dc:contributor>
-		<meta property="file-as" refines="#artist">Stuck, Franz</meta>
+		<dc:contributor id="artist">Franz von Stuck</dc:contributor>
+		<meta property="file-as" refines="#artist">Stuck, Franz von</meta>
+		<meta property="schema:alternateName" refines="#artist">Franz Ritter von Stuck</meta>
 		<link href="https://en.wikipedia.org/wiki/Franz_von_Stuck" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n82050633.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
